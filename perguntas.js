@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Matemática',
+    ' Qual é o valor aproximado de 𝜋?',
+    'O valor aproximado de 𝜋 é = 3,14'
+)
+
+criaCartao(
+    ' História',
+    'Quem foi o primeiro presidente do Brasil?',
+    'O primeiro presidente do Brasil foi Marechal Deodoro da Fonseca.'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Qual é o maior rio do mundo? ',
+    'O maior rio do mundo é o rio Amazonas.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Química',
+    'Qual é o símbolo químico do ouro?',
+    'O símbolo químico do ouro é "Au".'
 )
